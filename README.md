@@ -1,6 +1,3 @@
-###
-
-# 👋 Hi, I'm Pawan Sonawane!  
 
 ### 🚀 Full Stack Developer | Cloud Enthusiast
 
