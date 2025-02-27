@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Cloud Enthusiast | DevOps Practitioner  
 
-![Profile Banner](https://drive.google.com/file/d/1fnZIHH6QDKfU7MOntfHx8YDfJxWyDUFP/view?usp=drive_link)  
+![Profile Banner](https://www.canva.com/linkedin-banners/templates/)  
 
 ## 🔹 About Me  
 💻 Full Stack Developer with **3+ years** of experience building **scalable applications** using **React.js, Node.js**, and **cloud platforms (AWS & GCP)**.  
