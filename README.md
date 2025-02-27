@@ -85,19 +85,11 @@
 📜 **Certifications:**  
 ✅ NodeJS API Masterclass with Express & MongoDB  
 ✅ AWS Essentials 
-✅ NodeJS The Complete RESTful API Masterclass (2021)   
+✅ NodeJS The Complete RESTful API Masterclass (2021)
 ✅ ES6 JavaScript: The Complete Developer's Guide  
 ✅ Introduction to cloud computing on AWS for beginners  
 ✅ HTML / CSS Essential Training  
 ✅ Prompt Engineering: How to Talk to the AIs  
-
-✅ NodeJS API Masterclass With Express & MongoDB 
-✅ NodeJS The Complete RESTful API Masterclass (2021) 
-✅ ES6 JavaScript: The Complete Developer's Guide 
-✅ Introduction to cloud computing on AWS for beginners 
-✅ AWS Essentials 
-✅ HTML / CSS Essential Training 
-✅ Prompt Engineering: How to Talk to the AIs 
 
 ---
 
