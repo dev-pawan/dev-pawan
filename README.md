@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pawan Sonawane!  
 
-### 🚀 Full Stack Developer | Cloud Enthusiast | DevOps Practitioner  
+### 🚀 Full Stack Developer | Cloud Enthusiast
 
 ## 🔹 About Me  
 💻 Full Stack Developer with **3+ years** of experience building **scalable applications** using **React.js, Node.js**, and **cloud platforms (AWS & GCP)**.  
@@ -81,16 +81,19 @@
 ## 🎖️ Achievements & Certifications  
 
 🏆 **Grand Finalist in Smart India Hackathon 2017** *(Govt. of India)*  
+
 📜 **Certifications:**  
-✅ NodeJS API Masterclass with Express & MongoDB  
-✅ AWS Essentials & Introduction to Cloud Computing  
-✅ Prompt Engineering: How to Talk to the AIs  
+✅ NodeJS API Masterclass With Express & MongoDB 
+✅ NodeJS The Complete RESTful API Masterclass (2021) 
+✅ ES6 JavaScript: The Complete Developer's Guide 
+✅ Introduction to cloud computing on AWS for beginners 
+✅ AWS Essentials 
+✅ HTML / CSS Essential Training 
+✅ Prompt Engineering: How to Talk to the AIs 
 
 ---
 
 ## 📫 Connect with Me  
-🌐 [LinkedIn]()  
-📩 [Email](mailto:pawan.1sonawane@gmail.com)  
 <div align="left">
   <a href="https://www.linkedin.com/in/pawansonawane" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -129,11 +132,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/dev-pawan/count.svg?"  />
 </div>
----
 
 
 
-🚀 Check out my **[GitHub Repositories](https://github.com/your-github-profile)**!  
+🚀 Check out my **[GitHub Repositories](https://github.com/dev-pawan)**!  
 
----
+
 ⭐ **If you like my work, consider giving a star to my repositories!** 🌟
